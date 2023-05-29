@@ -20,3 +20,14 @@ D:\autoHanoi\hanoi\obj\Debug\hanoi.csproj.GenerateResource.cache
 D:\autoHanoi\hanoi\obj\Debug\hanoi.csproj.CoreCompileInputs.cache
 D:\autoHanoi\hanoi\obj\Debug\TowersWindows.exe
 D:\autoHanoi\hanoi\obj\Debug\TowersWindows.pdb
+D:\autoHanoi\autoHanoi\bin\Debug\TowersWindows.exe.config
+D:\autoHanoi\autoHanoi\bin\Debug\TowersWindows.exe
+D:\autoHanoi\autoHanoi\bin\Debug\TowersWindows.pdb
+D:\autoHanoi\autoHanoi\obj\Debug\hanoi.csproj.AssemblyReference.cache
+D:\autoHanoi\autoHanoi\obj\Debug\hanoi.csproj.SuggestedBindingRedirects.cache
+D:\autoHanoi\autoHanoi\obj\Debug\TowersWindows.Form1.resources
+D:\autoHanoi\autoHanoi\obj\Debug\TowersWindows.Properties.Resources.resources
+D:\autoHanoi\autoHanoi\obj\Debug\hanoi.csproj.GenerateResource.cache
+D:\autoHanoi\autoHanoi\obj\Debug\hanoi.csproj.CoreCompileInputs.cache
+D:\autoHanoi\autoHanoi\obj\Debug\TowersWindows.exe
+D:\autoHanoi\autoHanoi\obj\Debug\TowersWindows.pdb

@@ -18,7 +18,7 @@ namespace TowersWindows
 
             InitializeComponent();
              
-            for (int i = 1; i <= 3; i++)
+            for (int i = 1; i <= 6; i++)
             {
                 towers[0].Add(i);
             }
@@ -32,7 +32,7 @@ namespace TowersWindows
             int to = 2;
             int other = 1;
 
-            solveTowers(3, from, to, other);
+            solveTowers(6, from, to, other);
         }
 
 
