@@ -4,7 +4,7 @@ using System.Threading;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
-namespace TowersWindows
+namespace AutoHanoi
 {
     public partial class Form1 : Form
     {

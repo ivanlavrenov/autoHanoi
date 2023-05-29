@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TowersWindows.Properties
+namespace AutoHanoi.Properties
 {
 
 

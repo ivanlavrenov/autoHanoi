@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TowersWindows
+namespace AutoHanoi
 {
     partial class Form1
     {
