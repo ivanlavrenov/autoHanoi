@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bin",
+    "\\obj",
     "\\Properties"
   ],
   "SelectedNode": "\\Form1.cs",
